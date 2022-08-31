@@ -2,7 +2,7 @@
 Modelo de Machine Learning para experimento e análise estatísticas e mapas de cores
 
 <h2>Descrição do Projeto;</h2>
-    <p>Projeto de Data Science, sobre experimento da quaintidade de ingredientes para receita de cook keep e modelos matemáticos.</p>
+    <p>Projeto de Data Science, sobre experimento da quantidade de ingredientes para receita de cook keep e modelos matemáticos.</p>
   
   <h3>Tecnologias utilizadas;</h3>
     <p> 1. Anaconda Navigator para ambiente de Desenvolvimento Jupyter Notebook</p>
